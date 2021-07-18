@@ -2,4 +2,6 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Phoenix/v3.0/total.svg)](https://GitHub.com/Phoenix/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Phoenix/v4.0/total.svg)](https://github.com/HyconOS-Releases/phoenix/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Phoenix/v3.0/total.svg)](https://github.com/HyconOS-Releases/phoenix/releases)
